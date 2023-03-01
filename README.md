@@ -9,8 +9,56 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Velky07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=9900FF&ring=6100FF&fire=EB5454&dates=B242FF)](https://git.io/streak-stats)
 </div>
 <br/><br/>
+
+<h2 align="center"> Main Skills 🖥️ </h2>
+  <div style="display: inline_block" align="center" border="none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50" alt="Java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  </div>
+<br/><br/>
+<h2 align="center"> Tools ⚒️ </h2>
+  <div style="display: inline_block" align="center" border="none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="windows"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="github"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50" alt="photoshop"/>
+  </div>
+<br/><br/>
+<h2 align="center"> Learning in this moment 🧑‍🎓 </h2>
+  <div style="display: inline_block" align="center" border="none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+  </div>
+<br/><br/>
+<h2 align="center"> Contact 📲 </h2>
+  <div style="display: inline_block" align="center" border="none">
+    <a href = "mailto:jvvilela_pe@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href ="https://www.instagram.com/jvctr._/"target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href ="https://www.twitch.tv/jvctr_"target="_blank"><img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  </div>
+
+<br/><br/>
+<h2 align="center"> Trophies 🏆 </h2>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Velky07&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+<br/>
+<div align="center">
+<br/>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Velky07}/count.svg" /></p>
+<p align="centre"><b>Visitors Count🧮</b></p>
+<br>
+</div>
+
+<div align="center"> 
+<img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="480" height="480" frameBorder="0" >
+</div>
+<br/><br/>
 <div align="center">
   
   ![Snake animation](https://github.com/Velky07/Velky07/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900FF&height=185&section=footer"/>

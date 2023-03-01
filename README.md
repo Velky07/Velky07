@@ -8,3 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Velky07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=9900FF&ring=6100FF&fire=EB5454&dates=B242FF)](https://git.io/streak-stats)
 </div>
+
+  ![Snake animation](https://github.com/Velky07/Velky07/blob/output/github-contribution-grid-snake.svg)
+
+</div>

@@ -39,6 +39,12 @@
   </div>
 
 <br/><br/>
+<h2 align="center"> Donations 🪙 </h2>
+  <div style="display: inline_block" align="center" border="none">
+    <a href = "https://www.paypal.com/donate/?hosted_button_id=FDF5RX6RXCMGJ"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+  </div>
+
+<br/><br/>
 <h2 align="center"> Trophies 🏆 </h2>
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Velky07&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />

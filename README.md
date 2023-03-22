@@ -14,6 +14,7 @@
   <div style="display: inline_block" align="center" border="none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
   </div>
 <br/><br/>
 <h2 align="center"> Tools ⚒️ </h2>
@@ -27,8 +28,7 @@
 <br/><br/>
 <h2 align="center"> Learning in this moment 🧑‍🎓 </h2>
   <div style="display: inline_block" align="center" border="none">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg width="50" height="50" alt="Flask"/>
   </div>
 <br/><br/>
 <h2 align="center"> Contact 📲 </h2>

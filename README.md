@@ -28,7 +28,10 @@
 <br/><br/>
 <h2 align="center"> Learning in this moment 🧑‍🎓 </h2>
   <div style="display: inline_block" align="center" border="none">
-    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg width="50" height="50" alt="Flask"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
   </div>
 <br/><br/>
 <h2 align="center"> Contact 📲 </h2>

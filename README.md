@@ -14,24 +14,24 @@
   <div style="display: inline_block" align="center" border="none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
+    <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
+    <img src ="https://skillicons.dev/icons?i=mysql&theme=light" width="50" alt="MySQL">
+    <img src= "https://skillicons.dev/icons?i=postgres" width= "50" alt="PostGreSQL">
   </div>
 <br/><br/>
 <h2 align="center"> Tools ⚒️ </h2>
   <div style="display: inline_block" align="center" border="none">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="windows"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="github"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50" alt="photoshop"/>
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VSCode"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="47" height="50" alt="windows"/>
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="github"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="50" height="50" alt="photoshop"/>
   </div>
 <br/><br/>
 <h2 align="center"> Learning in this moment 🧑‍🎓 </h2>
   <div style="display: inline_block" align="center" border="none">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+    <img src= "https://skillicons.dev/icons?i=mysql" width="50" alt="MediaPipe">
   </div>
 <br/><br/>
 <h2 align="center"> Contact 📲 </h2>

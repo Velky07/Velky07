@@ -65,9 +65,11 @@
 </div>
 <br/><br/>
 <div align="center">
-  
-  ![Snake animation](https://github.com/Velky07/Velky07/blob/output/github-contribution-grid-snake.svg)
-
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Velky07/Velky07/e5eb0e34086389e584418a5206161ccf75f27d63/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Velky07/Velky07/e5eb0e34086389e584418a5206161ccf75f27d63/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Velky07/Velky07/e5eb0e34086389e584418a5206161ccf75f27d63/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900FF&height=185&section=footer"/>

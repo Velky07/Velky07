@@ -59,11 +59,6 @@
 <p align="centre"><b>Visitors Count🧮</b></p>
 <br>
 </div>
-
-<div align="center"> 
-<img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="480" height="480" frameBorder="0" >
-</div>
-<br/><br/>
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Velky07/Velky07/e5eb0e34086389e584418a5206161ccf75f27d63/github-contribution-grid-snake-dark.svg" />

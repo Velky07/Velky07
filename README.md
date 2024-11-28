@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900FF&height=185&section=header&text=Hello%20World!%20Welcome%20to%20my%20Study%20GitHub!&fontSize=40&fontColor=161b22&stroke=FFFFFF&strokeWidth=.5&animation=fadeIn)"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900FF&height=185&section=header&text=Hello%20World!%20Welcome%20to%20my%20Study%20GitHub!&fontSize=40&fontColor=161b22&stroke=FFFFFF&strokeWidth=.5&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=100&color=C164FF&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=My+name+is+Jo%C3%A3o+Victor+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+20+years+old+%F0%9F%99%87;I'm+from+Brazil+%F0%9F%8C%8E;I'm+studying+computer+engineering%F0%9F%93%9A;Be+Welcome!+%F0%9F%98%8A)](https://git.io/typing-svg)
 

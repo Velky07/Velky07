@@ -26,8 +26,8 @@
 <br/><br/>
 <h2 align="center"> Learning in this moment 🧑‍🎓 </h2>
   <div style="display: inline_block" align="center" border="none">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="50" height="50" alt="Unity"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="50" height="50" alt="CS"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Unity-Dark.svg" width="50" height="50" alt="Unity"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" width="50" height="50" alt="CS"/>
   </div>
 <br/><br/>
 <h2 align="center"> Contact 📲 </h2>

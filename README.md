@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900FF&height=185&section=header&text=Hello%20World!%20Welcome%20to%20my%20Study%20GitHub!&fontSize=40&fontColor=161b22&stroke=FFFFFF&strokeWidth=.5&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=100&color=C164FF&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=My+name+is+Jo%C3%A3o+Victor+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+20+years+old+%F0%9F%99%87;I'm+from+Brazil+%F0%9F%8C%8E;I'm+studying+computer+engineering%F0%9F%93%9A;Be+Welcome!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=100&color=C164FF&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=My+name+is+Jo%C3%A3o+Victor+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+22+years+old+%F0%9F%99%87;I'm+from+Brazil+%F0%9F%8C%8E;I'm+studying+computer+engineering%F0%9F%93%9A;Be+Welcome!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Velky07&show_icons=true&count_private=true&hide_border=true&title_color=C164FF&icon_color=B242FF&text_color=c9d1d9&bg_color=0d1117" alt="João Victor Github Stats" /> 
@@ -14,9 +14,6 @@
   <div style="display: inline_block" align="center" border="none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-    <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
-    <img src ="https://skillicons.dev/icons?i=mysql&theme=light" width="50" alt="MySQL">
-    <img src= "https://skillicons.dev/icons?i=postgres" width= "50" alt="PostGreSQL">
   </div>
 <br/><br/>
 <h2 align="center"> Tools ⚒️ </h2>
@@ -29,9 +26,8 @@
 <br/><br/>
 <h2 align="center"> Learning in this moment 🧑‍🎓 </h2>
   <div style="display: inline_block" align="center" border="none">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-    <img src= "https://skillicons.dev/icons?i=mysql" width="50" alt="MediaPipe">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="50" height="50" alt="Unity"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="50" height="50" alt="CS"/>
   </div>
 <br/><br/>
 <h2 align="center"> Contact 📲 </h2>

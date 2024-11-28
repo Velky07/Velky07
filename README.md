@@ -14,6 +14,7 @@
   <div style="display: inline_block" align="center" border="none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/C.svg" width="50" height="50" alt="C"/>
   </div>
 <br/><br/>
 <h2 align="center"> Tools ⚒️ </h2>
@@ -22,6 +23,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="47" height="50" alt="windows"/>
     <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="github"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="50" height="50" alt="photoshop"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Arduino.svg" width="50" height="50" alt="Arduino"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg" width="50" height="50" alt="Discord"/>
   </div>
 <br/><br/>
 <h2 align="center"> Learning in this moment 🧑‍🎓 </h2>
